@@ -1,0 +1,68 @@
+﻿<Window x:Class="SmartTestExam.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Вікно тестів" Height="500" Width="800">
+
+    <Grid>
+        <DockPanel Background="#E0E8FF">
+            <TextBlock Text="SmartTestExam > Головне меню > Тести" 
+                       FontSize="14" VerticalAlignment="Center" Margin="10,0"/>
+            <Button Content="Вихід" DockPanel.Dock="Right" Width="80" Height ="20"  Margin="400,20,0,400" RenderTransformOrigin="0.54,-0.379"/>
+        </DockPanel>
+
+        <Grid Margin="10,40,10,10">
+            <TabControl>
+                <TabItem Header="Тести">
+                    <ScrollViewer VerticalScrollBarVisibility="Auto">
+                        <StackPanel Margin="10">
+
+                            <Border BorderBrush="LightGray" BorderThickness="1" Margin="0,0,0,10" Padding="10">
+                                <StackPanel Orientation="Horizontal">
+                                    <StackPanel Width="600">
+                                        <TextBlock Text="Україна в роки Другої світової війни" FontSize="16" FontWeight="Bold" />
+                                        <TextBlock Text="..." FontSize="12" Foreground="Gray"/>
+                                    </StackPanel>
+                                    <StackPanel VerticalAlignment="Center">
+                                        <TextBlock Text="Виконати до: 27.09.24 21:00" Foreground="Red" FontSize="12" HorizontalAlignment="Right"/>
+                                    </StackPanel>
+                                </StackPanel>
+                            </Border>
+
+                            <Border BorderBrush="LightGray" BorderThickness="1" Margin="0,0,0,10" Padding="10">
+                                <StackPanel Orientation="Horizontal">
+                                    <StackPanel Width="600">
+                                        <TextBlock Text="Обчислення об'ємів фігур" FontSize="16" FontWeight="Bold" />
+                                        <TextBlock Text="..." FontSize="12" Foreground="Gray"/>
+                                    </StackPanel>
+                                    <StackPanel VerticalAlignment="Center">
+                                        <TextBlock Text="Виконати до: 01.10.24 13:00" Foreground="Red" FontSize="12" HorizontalAlignment="Right"/>
+                                    </StackPanel>
+                                </StackPanel>
+                            </Border>
+
+                            <Border BorderBrush="LightGray" BorderThickness="1" Margin="0,0,0,10" Padding="10">
+                                <StackPanel Orientation="Horizontal">
+                                    <StackPanel Width="600">
+                                        <TextBlock Text="Часи в англійській мові" FontSize="16" FontWeight="Bold" />
+                                        <TextBlock Text="..." FontSize="12" Foreground="Gray"/>
+                                    </StackPanel>
+                                    <StackPanel VerticalAlignment="Center">
+                                        <TextBlock Text="Виконати до: 13.10.24 23:59" Foreground="Red" FontSize="12" HorizontalAlignment="Right"/>
+                                    </StackPanel>
+                                </StackPanel>
+                            </Border>
+
+                        </StackPanel>
+                    </ScrollViewer>
+                </TabItem>
+
+                <TabItem Header="Мої результати">
+                    <TextBlock Text="Тут відображатимуться результати користувача" Margin="10"/>
+                </TabItem>
+            </TabControl>
+
+            <Button Content="Додати тест" HorizontalAlignment="Left" Width="120" Margin="10,414,0,0"
+                    VerticalAlignment="Top"/>
+        </Grid>
+    </Grid>
+</Window>

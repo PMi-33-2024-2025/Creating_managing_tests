@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GroupProject\\SmartTestExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB26486-ED4A-437E-938E-58737D52F04E}|SmartTestExam.BLL\\SmartTestExam.BLL.csproj|c:\\groupproject\\smarttestexam\\smarttestexam.bll\\smarttestexam.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FFB26486-ED4A-437E-938E-58737D52F04E}|SmartTestExam.BLL\\SmartTestExam.BLL.csproj|solutionrelative:smarttestexam.bll\\smarttestexam.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB26486-ED4A-437E-938E-58737D52F04E}|SmartTestExam.BLL\\SmartTestExam.BLL.csproj|c:\\groupproject\\smarttestexam\\smarttestexam.bll\\userslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB26486-ED4A-437E-938E-58737D52F04E}|SmartTestExam.BLL\\SmartTestExam.BLL.csproj|solutionrelative:smarttestexam.bll\\userslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB26486-ED4A-437E-938E-58737D52F04E}|SmartTestExam.BLL\\SmartTestExam.BLL.csproj|c:\\groupproject\\smarttestexam\\smarttestexam.bll\\testslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB26486-ED4A-437E-938E-58737D52F04E}|SmartTestExam.BLL\\SmartTestExam.BLL.csproj|solutionrelative:smarttestexam.bll\\testslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB26486-ED4A-437E-938E-58737D52F04E}|SmartTestExam.BLL\\SmartTestExam.BLL.csproj|c:\\groupproject\\smarttestexam\\smarttestexam.bll\\answerslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB26486-ED4A-437E-938E-58737D52F04E}|SmartTestExam.BLL\\SmartTestExam.BLL.csproj|solutionrelative:smarttestexam.bll\\answerslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB26486-ED4A-437E-938E-58737D52F04E}|SmartTestExam.BLL\\SmartTestExam.BLL.csproj|c:\\groupproject\\smarttestexam\\smarttestexam.bll\\questionslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB26486-ED4A-437E-938E-58737D52F04E}|SmartTestExam.BLL\\SmartTestExam.BLL.csproj|solutionrelative:smarttestexam.bll\\questionslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E63C88-B173-45DB-934F-4946FF6526FF}|SmartTestExam.DAL\\SmartTestExam.DAL.csproj|c:\\groupproject\\smarttestexam\\smarttestexam.dal\\repositories\\questionsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E63C88-B173-45DB-934F-4946FF6526FF}|SmartTestExam.DAL\\SmartTestExam.DAL.csproj|solutionrelative:smarttestexam.dal\\repositories\\questionsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E63C88-B173-45DB-934F-4946FF6526FF}|SmartTestExam.DAL\\SmartTestExam.DAL.csproj|c:\\groupproject\\smarttestexam\\smarttestexam.dal\\repositories\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E63C88-B173-45DB-934F-4946FF6526FF}|SmartTestExam.DAL\\SmartTestExam.DAL.csproj|solutionrelative:smarttestexam.dal\\repositories\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB26486-ED4A-437E-938E-58737D52F04E}|SmartTestExam.BLL\\SmartTestExam.BLL.csproj|c:\\groupproject\\smarttestexam\\smarttestexam.bll\\testresultslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB26486-ED4A-437E-938E-58737D52F04E}|SmartTestExam.BLL\\SmartTestExam.BLL.csproj|solutionrelative:smarttestexam.bll\\testresultslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2B8BDE-4901-4E3F-B5E1-863F5B5D90E3}|SmartTestExam\\SmartTestExam.csproj|c:\\groupproject\\smarttestexam\\smarttestexam\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2B8BDE-4901-4E3F-B5E1-863F5B5D90E3}|SmartTestExam\\SmartTestExam.csproj|solutionrelative:smarttestexam\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E63C88-B173-45DB-934F-4946FF6526FF}|SmartTestExam.DAL\\SmartTestExam.DAL.csproj|c:\\groupproject\\smarttestexam\\smarttestexam.dal\\smarttestexamdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E63C88-B173-45DB-934F-4946FF6526FF}|SmartTestExam.DAL\\SmartTestExam.DAL.csproj|solutionrelative:smarttestexam.dal\\smarttestexamdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E63C88-B173-45DB-934F-4946FF6526FF}|SmartTestExam.DAL\\SmartTestExam.DAL.csproj|c:\\groupproject\\smarttestexam\\smarttestexam.dal\\repositories\\testresultsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E63C88-B173-45DB-934F-4946FF6526FF}|SmartTestExam.DAL\\SmartTestExam.DAL.csproj|solutionrelative:smarttestexam.dal\\repositories\\testresultsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2B8BDE-4901-4E3F-B5E1-863F5B5D90E3}|SmartTestExam\\SmartTestExam.csproj|c:\\groupproject\\smarttestexam\\smarttestexam\\models\\testresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2B8BDE-4901-4E3F-B5E1-863F5B5D90E3}|SmartTestExam\\SmartTestExam.csproj|solutionrelative:smarttestexam\\models\\testresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E63C88-B173-45DB-934F-4946FF6526FF}|SmartTestExam.DAL\\SmartTestExam.DAL.csproj|c:\\groupproject\\smarttestexam\\smarttestexam.dal\\repositories\\testsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E63C88-B173-45DB-934F-4946FF6526FF}|SmartTestExam.DAL\\SmartTestExam.DAL.csproj|solutionrelative:smarttestexam.dal\\repositories\\testsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E63C88-B173-45DB-934F-4946FF6526FF}|SmartTestExam.DAL\\SmartTestExam.DAL.csproj|c:\\groupproject\\smarttestexam\\smarttestexam.dal\\repositories\\answersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E63C88-B173-45DB-934F-4946FF6526FF}|SmartTestExam.DAL\\SmartTestExam.DAL.csproj|solutionrelative:smarttestexam.dal\\repositories\\answersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2B8BDE-4901-4E3F-B5E1-863F5B5D90E3}|SmartTestExam\\SmartTestExam.csproj|c:\\groupproject\\smarttestexam\\smarttestexam\\models\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2B8BDE-4901-4E3F-B5E1-863F5B5D90E3}|SmartTestExam\\SmartTestExam.csproj|solutionrelative:smarttestexam\\models\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2B8BDE-4901-4E3F-B5E1-863F5B5D90E3}|SmartTestExam\\SmartTestExam.csproj|c:\\groupproject\\smarttestexam\\smarttestexam\\models\\answers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2B8BDE-4901-4E3F-B5E1-863F5B5D90E3}|SmartTestExam\\SmartTestExam.csproj|solutionrelative:smarttestexam\\models\\answers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2B8BDE-4901-4E3F-B5E1-863F5B5D90E3}|SmartTestExam\\SmartTestExam.csproj|c:\\groupproject\\smarttestexam\\smarttestexam\\models\\questions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2B8BDE-4901-4E3F-B5E1-863F5B5D90E3}|SmartTestExam\\SmartTestExam.csproj|solutionrelative:smarttestexam\\models\\questions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E63C88-B173-45DB-934F-4946FF6526FF}|SmartTestExam.DAL\\SmartTestExam.DAL.csproj|c:\\groupproject\\smarttestexam\\smarttestexam.dal\\smarttestexam.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E0E63C88-B173-45DB-934F-4946FF6526FF}|SmartTestExam.DAL\\SmartTestExam.DAL.csproj|solutionrelative:smarttestexam.dal\\smarttestexam.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2B8BDE-4901-4E3F-B5E1-863F5B5D90E3}|SmartTestExam\\SmartTestExam.csproj|c:\\groupproject\\smarttestexam\\smarttestexam\\smarttestexam.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B2B8BDE-4901-4E3F-B5E1-863F5B5D90E3}|SmartTestExam\\SmartTestExam.csproj|solutionrelative:smarttestexam\\smarttestexam.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2B8BDE-4901-4E3F-B5E1-863F5B5D90E3}|SmartTestExam\\SmartTestExam.csproj|c:\\groupproject\\smarttestexam\\smarttestexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2B8BDE-4901-4E3F-B5E1-863F5B5D90E3}|SmartTestExam\\SmartTestExam.csproj|solutionrelative:smarttestexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnswersLogic.cs",
+              "DocumentMoniker": "C:\\GroupProject\\SmartTestExam\\SmartTestExam.BLL\\AnswersLogic.cs",
+              "RelativeDocumentMoniker": "SmartTestExam.BLL\\AnswersLogic.cs",
+              "ToolTip": "C:\\GroupProject\\SmartTestExam\\SmartTestExam.BLL\\AnswersLogic.cs",
+              "RelativeToolTip": "SmartTestExam.BLL\\AnswersLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T20:53:38.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuestionsLogic.cs",
+              "DocumentMoniker": "C:\\GroupProject\\SmartTestExam\\SmartTestExam.BLL\\QuestionsLogic.cs",
+              "RelativeDocumentMoniker": "SmartTestExam.BLL\\QuestionsLogic.cs",
+              "ToolTip": "C:\\GroupProject\\SmartTestExam\\SmartTestExam.BLL\\QuestionsLogic.cs",
+              "RelativeToolTip": "SmartTestExam.BLL\\QuestionsLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T20:55:51.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuestionsRepository.cs",
+              "DocumentMoniker": "C:\\GroupProject\\SmartTestExam\\SmartTestExam.DAL\\Repositories\\QuestionsRepository.cs",
+              "RelativeDocumentMoniker": "SmartTestExam.DAL\\Repositories\\QuestionsRepository.cs",
+              "ToolTip": "C:\\GroupProject\\SmartTestExam\\SmartTestExam.DAL\\Repositories\\QuestionsRepository.cs",
+              "RelativeToolTip": "SmartTestExam.DAL\\Repositories\\QuestionsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T19:21:17.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersLogic.cs",
+              "DocumentMoniker": "C:\\GroupProject\\SmartTestExam\\SmartTestExam.BLL\\UsersLogic.cs",
+              "RelativeDocumentMoniker": "SmartTestExam.BLL\\UsersLogic.cs",
+              "ToolTip": "C:\\GroupProject\\SmartTestExam\\SmartTestExam.BLL\\UsersLogic.cs",
+              "RelativeToolTip": "SmartTestExam.BLL\\UsersLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T22:30:49.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestsLogic.cs",
+              "DocumentMoniker": "C:\\GroupProject\\SmartTestExam\\SmartTestExam.BLL\\TestsLogic.cs",
+              "RelativeDocumentMoniker": "SmartTestExam.BLL\\TestsLogic.cs",
+              "ToolTip": "C:\\GroupProject\\SmartTestExam\\SmartTestExam.BLL\\TestsLogic.cs",
+              "RelativeToolTip": "SmartTestExam.BLL\\TestsLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T22:10:43.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SmartTestExam.BLL",
+              "DocumentMoniker": "C:\\GroupProject\\SmartTestExam\\SmartTestExam.BLL\\SmartTestExam.BLL.csproj",
+              "RelativeDocumentMoniker": "SmartTestExam.BLL\\SmartTestExam.BLL.csproj",
+              "ToolTip": "C:\\GroupProject\\SmartTestExam\\SmartTestExam.BLL\\SmartTestExam.BLL.csproj",
+              "RelativeToolTip": "SmartTestExam.BLL\\SmartTestExam.BLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-18T20:54:29.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsersRepository.cs",
+              "DocumentMoniker": "C:\\GroupProject\\SmartTestExam\\SmartTestExam.DAL\\Repositories\\UsersRepository.cs",
+              "RelativeDocumentMoniker": "SmartTestExam.DAL\\Repositories\\UsersRepository.cs",
+              "ToolTip": "C:\\GroupProject\\SmartTestExam\\SmartTestExam.DAL\\Repositories\\UsersRepository.cs",
+              "RelativeToolTip": "SmartTestExam.DAL\\Repositories\\UsersRepository.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAiwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T19:14:25.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TestResultsLogic.cs",
+              "DocumentMoniker": "C:\\GroupProject\\SmartTestExam\\SmartTestExam.BLL\\TestResultsLogic.cs",
+              "RelativeDocumentMoniker": "SmartTestExam.BLL\\TestResultsLogic.cs",
+              "ToolTip": "C:\\GroupProject\\SmartTestExam\\SmartTestExam.BLL\\TestResultsLogic.cs",
+              "RelativeToolTip": "SmartTestExam.BLL\\TestResultsLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T22:22:11.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\GroupProject\\SmartTestExam\\SmartTestExam\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "SmartTestExam\\Models\\Users.cs",
+              "ToolTip": "C:\\GroupProject\\SmartTestExam\\SmartTestExam\\Models\\Users.cs",
+              "RelativeToolTip": "SmartTestExam\\Models\\Users.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T21:09:01.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SmartTestExamDbContext.cs",
+              "DocumentMoniker": "C:\\GroupProject\\SmartTestExam\\SmartTestExam.DAL\\SmartTestExamDbContext.cs",
+              "RelativeDocumentMoniker": "SmartTestExam.DAL\\SmartTestExamDbContext.cs",
+              "ToolTip": "C:\\GroupProject\\SmartTestExam\\SmartTestExam.DAL\\SmartTestExamDbContext.cs",
+              "RelativeToolTip": "SmartTestExam.DAL\\SmartTestExamDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T18:53:41.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TestResultsRepository.cs",
+              "DocumentMoniker": "C:\\GroupProject\\SmartTestExam\\SmartTestExam.DAL\\Repositories\\TestResultsRepository.cs",
+              "RelativeDocumentMoniker": "SmartTestExam.DAL\\Repositories\\TestResultsRepository.cs",
+              "ToolTip": "C:\\GroupProject\\SmartTestExam\\SmartTestExam.DAL\\Repositories\\TestResultsRepository.cs",
+              "RelativeToolTip": "SmartTestExam.DAL\\Repositories\\TestResultsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T19:25:14.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TestResults.cs",
+              "DocumentMoniker": "C:\\GroupProject\\SmartTestExam\\SmartTestExam\\Models\\TestResults.cs",
+              "RelativeDocumentMoniker": "SmartTestExam\\Models\\TestResults.cs",
+              "ToolTip": "C:\\GroupProject\\SmartTestExam\\SmartTestExam\\Models\\TestResults.cs",
+              "RelativeToolTip": "SmartTestExam\\Models\\TestResults.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T21:11:46.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TestsRepository.cs",
+              "DocumentMoniker": "C:\\GroupProject\\SmartTestExam\\SmartTestExam.DAL\\Repositories\\TestsRepository.cs",
+              "RelativeDocumentMoniker": "SmartTestExam.DAL\\Repositories\\TestsRepository.cs",
+              "ToolTip": "C:\\GroupProject\\SmartTestExam\\SmartTestExam.DAL\\Repositories\\TestsRepository.cs",
+              "RelativeToolTip": "SmartTestExam.DAL\\Repositories\\TestsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T19:19:29.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AnswersRepository.cs",
+              "DocumentMoniker": "C:\\GroupProject\\SmartTestExam\\SmartTestExam.DAL\\Repositories\\AnswersRepository.cs",
+              "RelativeDocumentMoniker": "SmartTestExam.DAL\\Repositories\\AnswersRepository.cs",
+              "ToolTip": "C:\\GroupProject\\SmartTestExam\\SmartTestExam.DAL\\Repositories\\AnswersRepository.cs",
+              "RelativeToolTip": "SmartTestExam.DAL\\Repositories\\AnswersRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T19:23:30.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Tests.cs",
+              "DocumentMoniker": "C:\\GroupProject\\SmartTestExam\\SmartTestExam\\Models\\Tests.cs",
+              "RelativeDocumentMoniker": "SmartTestExam\\Models\\Tests.cs",
+              "ToolTip": "C:\\GroupProject\\SmartTestExam\\SmartTestExam\\Models\\Tests.cs",
+              "RelativeToolTip": "SmartTestExam\\Models\\Tests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T21:10:20.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Answers.cs",
+              "DocumentMoniker": "C:\\GroupProject\\SmartTestExam\\SmartTestExam\\Models\\Answers.cs",
+              "RelativeDocumentMoniker": "SmartTestExam\\Models\\Answers.cs",
+              "ToolTip": "C:\\GroupProject\\SmartTestExam\\SmartTestExam\\Models\\Answers.cs",
+              "RelativeToolTip": "SmartTestExam\\Models\\Answers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T21:11:25.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Questions.cs",
+              "DocumentMoniker": "C:\\GroupProject\\SmartTestExam\\SmartTestExam\\Models\\Questions.cs",
+              "RelativeDocumentMoniker": "SmartTestExam\\Models\\Questions.cs",
+              "ToolTip": "C:\\GroupProject\\SmartTestExam\\SmartTestExam\\Models\\Questions.cs",
+              "RelativeToolTip": "SmartTestExam\\Models\\Questions.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA7wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T21:10:56.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SmartTestExam.DAL",
+              "DocumentMoniker": "C:\\GroupProject\\SmartTestExam\\SmartTestExam.DAL\\SmartTestExam.DAL.csproj",
+              "RelativeDocumentMoniker": "SmartTestExam.DAL\\SmartTestExam.DAL.csproj",
+              "ToolTip": "C:\\GroupProject\\SmartTestExam\\SmartTestExam.DAL\\SmartTestExam.DAL.csproj",
+              "RelativeToolTip": "SmartTestExam.DAL\\SmartTestExam.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-18T21:48:15.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SmartTestExam",
+              "DocumentMoniker": "C:\\GroupProject\\SmartTestExam\\SmartTestExam\\SmartTestExam.csproj",
+              "RelativeDocumentMoniker": "SmartTestExam\\SmartTestExam.csproj",
+              "ToolTip": "C:\\GroupProject\\SmartTestExam\\SmartTestExam\\SmartTestExam.csproj",
+              "RelativeToolTip": "SmartTestExam\\SmartTestExam.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-18T21:05:35.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GroupProject\\SmartTestExam\\SmartTestExam\\Program.cs",
+              "RelativeDocumentMoniker": "SmartTestExam\\Program.cs",
+              "ToolTip": "C:\\GroupProject\\SmartTestExam\\SmartTestExam\\Program.cs",
+              "RelativeToolTip": "SmartTestExam\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T18:03:10.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+C:\GroupProject\SmartTestExam\SmartTestExam.BLL\obj\Debug\net8.0\SmartTestExam.BLL.csproj.AssemblyReference.cache
+C:\GroupProject\SmartTestExam\SmartTestExam.BLL\obj\Debug\net8.0\SmartTestExam.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\GroupProject\SmartTestExam\SmartTestExam.BLL\obj\Debug\net8.0\SmartTestExam.BLL.AssemblyInfoInputs.cache
+C:\GroupProject\SmartTestExam\SmartTestExam.BLL\obj\Debug\net8.0\SmartTestExam.BLL.AssemblyInfo.cs
+C:\GroupProject\SmartTestExam\SmartTestExam.BLL\obj\Debug\net8.0\SmartTestExam.BLL.csproj.CoreCompileInputs.cache
