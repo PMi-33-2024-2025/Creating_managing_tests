@@ -1,0 +1,12 @@
+C:\GroupProject\SmartTestExam\SmartTestExam.DAL\bin\Debug\net8.0\SmartTestExam.DAL.deps.json
+C:\GroupProject\SmartTestExam\SmartTestExam.DAL\bin\Debug\net8.0\SmartTestExam.DAL.dll
+C:\GroupProject\SmartTestExam\SmartTestExam.DAL\bin\Debug\net8.0\SmartTestExam.DAL.pdb
+C:\GroupProject\SmartTestExam\SmartTestExam.DAL\obj\Debug\net8.0\SmartTestExam.DAL.csproj.AssemblyReference.cache
+C:\GroupProject\SmartTestExam\SmartTestExam.DAL\obj\Debug\net8.0\SmartTestExam.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\GroupProject\SmartTestExam\SmartTestExam.DAL\obj\Debug\net8.0\SmartTestExam.DAL.AssemblyInfoInputs.cache
+C:\GroupProject\SmartTestExam\SmartTestExam.DAL\obj\Debug\net8.0\SmartTestExam.DAL.AssemblyInfo.cs
+C:\GroupProject\SmartTestExam\SmartTestExam.DAL\obj\Debug\net8.0\SmartTestExam.DAL.csproj.CoreCompileInputs.cache
+C:\GroupProject\SmartTestExam\SmartTestExam.DAL\obj\Debug\net8.0\SmartTestExam.DAL.dll
+C:\GroupProject\SmartTestExam\SmartTestExam.DAL\obj\Debug\net8.0\refint\SmartTestExam.DAL.dll
+C:\GroupProject\SmartTestExam\SmartTestExam.DAL\obj\Debug\net8.0\SmartTestExam.DAL.pdb
+C:\GroupProject\SmartTestExam\SmartTestExam.DAL\obj\Debug\net8.0\ref\SmartTestExam.DAL.dll
